@@ -1,2 +1,2 @@
 ---
-H. Mahdiani, A. Khadem, A. Ghanbari, M. Modarressi, <b>F. Fatahi Bayat</b>, and M. Daneshtalab, "\DeltaNN: Power-efficient Neural Network Acceleration using Differential Weights," <i>IEEE Computer Micro,<i> 2019.[\[paper\]](https://ieeexplore.ieee.org/abstract/document/8877741)
+H. Mahdiani, A. Khadem, A. Ghanbari, M. Modarressi, <b>F. Fatahi Bayat</b>, and M. Daneshtalab, "\Delta$NN: Power-efficient Neural Network Acceleration using Differential Weights," <i>IEEE Computer Micro,<i> 2019.[\[paper\]](https://ieeexplore.ieee.org/abstract/document/8877741)
